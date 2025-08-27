@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function(){
   const form = document.getElementById('commission-form');
   const waBtn = document.getElementById('wa-send');
-  const ownerEmail = 'Blakewheeler712@gmail.com';
-  const waNumber = '14253509128';
+  const ownerEmail = 'thomas1reynolds09@gmail.com';
+  const waNumber = '+1 7152891510';
 
   function encodeField(s){ return encodeURIComponent(s || ''); }
 
